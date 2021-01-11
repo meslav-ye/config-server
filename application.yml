@@ -1,0 +1,3 @@
+measuring.unit: K
+temperature-service.name: temperature-ms
+humidity-service.name: humidity-ms
